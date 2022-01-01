@@ -1,0 +1,5 @@
+D:\Hong\TEMP\AbstractFactoryDP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Hong\TEMP\AbstractFactoryDP\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Hong\TEMP\AbstractFactoryDP\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Hong\TEMP\AbstractFactoryDP\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Hong\TEMP\AbstractFactoryDP\Calculator\Calculator\obj\Debug\Calculator.pdb
